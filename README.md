@@ -71,13 +71,13 @@ How?
 Installing the library is as easy as
 
 ```bash
-$ go get github.com/lucasb-eyer/go-colorful
+$ go get github.com/zuriu/go-colorful
 ```
 
 The package can then be used through an
 
 ```go
-import "github.com/lucasb-eyer/go-colorful"
+import "github.com/zuriu/go-colorful"
 ```
 
 ### Basic usage
